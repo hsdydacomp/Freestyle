@@ -1,0 +1,6 @@
+C:\Git\Freestyle\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe.config
+C:\Git\Freestyle\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.exe
+C:\Git\Freestyle\MyConsoleApp\MyConsoleApp\bin\Debug\MyConsoleApp.pdb
+C:\Git\Freestyle\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.csprojResolveAssemblyReference.cache
+C:\Git\Freestyle\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.exe
+C:\Git\Freestyle\MyConsoleApp\MyConsoleApp\obj\Debug\MyConsoleApp.pdb
